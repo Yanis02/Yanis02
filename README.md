@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Djouima Ahmed Yanis</h1>
 <h3 align="center">Software engineering student and Full stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yanis02&label=Profile%20views&color=0e75b6&style=flat" alt="yanis02" /> </p>
+- 🔭 I’m currently working on **creating usefull web applications**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanis02" alt="yanis02" /></a> </p>
-
-- 🔭 I’m currently working on **creating usefull apps**
-
-- 🌱 I’m currently learning **web development frameworks (nextJs,Django ..etc))**
+- 🌱 I’m currently learning **web development frameworks (nextJs,Django ..etc)**
 
 - 📫 How to reach me **ka_djouima@esi.dz**
 
