@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ka_djouima@esi.dz**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
