@@ -1,6 +1,6 @@
 # 💫 About Me:
  I'm a software engineering student and full Stack web developer.<br>🔭 I’m currently working on creating useful web applications<br>🌱 I’m currently learning web development frameworks (nextJs,Django ..etc)<br>📫 How to reach me **ka_djouima@esi.dz**
- Portfolio https://djouima-ahmed-yanis-portfolio.vercel.ap
+ Portfolio https://djouima-ahmed-yanis-portfolio.vercel.app
 
 
 # 💻 Tech Stack:
