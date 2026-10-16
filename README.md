@@ -1,7 +1,7 @@
 # 💫 About Me
 Software engineer experienced in **full-stack web** and **mobile development**, with a solid foundation in **R&D** and applied AI. I build products that ship and research that publishes.
 - 🔬 R&D Engineer @ **ALTEN**: embedded AI & vehicular network security (V2X, federated learning, privacy-preserving ML)
-- 👨‍💻 Software engineer @ **The Trybe**: full-stack & mobile, leading client projects from design to production
+- 👨‍💻 Software engineer @ **The Trybe**: full-stack & mobile, implementing client projects from design to production
 - 📱 Lead Mobile Developer @ **Kerya**: shipped a React Native app serving **30,000+ active users**
 - 📄 Published author @ **KES 2026**: *Multimodal Approach for Predicting Relapse Following Favorable First-Line Response in Multiple Myeloma*
 - 🧠 Interested in distributed systems, applied AI, multimodal deep learning, and IoT
